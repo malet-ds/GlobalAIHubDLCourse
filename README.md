@@ -1,2 +1,24 @@
 # GlobalAIHubDLCourse
-Repository for exercises and project of the intro to deep learning course in Global AI Hub
+
+![LO](img/logo.png)
+
+**Course Date:** March 1 to March 5, 2021
+**Name:** Nuria Andrea
+**Surname:** Malet Quintar
+**Email:** nmalet12@gmail.com
+
+## Project:
+
+Description...
+
+## Requirements
+
+Python Libraries
+
+* numpy
+* pandas
+*
+
+### Certification
+
+![Display certificate once earned](img/top_learner.png)
