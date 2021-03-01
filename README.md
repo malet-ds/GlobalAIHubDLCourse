@@ -3,9 +3,13 @@
 ![LO](img/logo.png)
 
 **Course Date:** March 1 to March 5, 2021
+
 **Name:** Nuria Andrea
+
 **Surname:** Malet Quintar
+
 **Email:** nmalet12@gmail.com
+
 
 ## Project:
 
