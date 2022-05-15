@@ -25,4 +25,4 @@ Python Libraries
 
 ### Certification
 
-![Display certificate once earned](img/top_learner.png)
+![Top Learner Certificate](img/top_learner.png)
